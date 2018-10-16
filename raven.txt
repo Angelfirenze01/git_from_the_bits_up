@@ -1,1 +1,55 @@
-Ah, distinctly, I remember: it was in the bleak December.
+<b>The Raven</b>
+<i>By Edgar Allan Poe</i>
+
+* Utilized in 'Git From the Bits Up' seminar/Meetup on YouTube (https://www.youtube.com/watch?v=MYP56QJpDr4) by Tim Berglund.
+
+Once upon a midnight dreary, while I pondered, weak and weary,
+Over many a quaint and curious volume of forgotten lore --
+While I nodded, nearly napping, suddenly there came a tapping,
+As of some one gently rapping, rapping at my chamber door.
+"'Tis some visitor," I muttered, "tapping at my chamber door --
+Only this and nothing more."
+
+Ah, distinctly I remember it was in the bleak December;
+And each separate dying ember wrought its ghost upon the floor.
+Eagerly I wish the morrow; --vainly I had sought to borrow
+From my books surcease of sorrow --sorrow for the lost Lenore --
+For the rare and radiant maiden whom the angels name Lenore --
+Nameless <i>here</i> for evermore.
+
+And the silken, sad, uncertain rustling of each purple curtain
+Thrilled me --filled me with fantastic terrors never felt before;
+So that now, to still the beating of my heart, I stood repeating
+"'Tis some visitor entreating entrance at my chamber door;--
+ This it is and nothing more."
+
+ Presently my soul grew stronger; hesitating then no longer
+ "Sir," said I, "or Madam, truly your forgiveness I implore;
+ But the fact is I was napping, and so gently you came rapping,
+ And so faintly you came tapping, tapping at my chamber door,
+ That I scarce was sure I heard you" --here I opened wide the door; --
+ Darkness there and nothing more.
+
+ Deep into that darkness peering, long I stood there wondering, fearing
+ Doubting, dreaming dreams no mortal ever dared to dream before;
+ But the silence was unbroken, and the stillness gave no token,
+ And the only word there spoken was the whispered word, "Lenore?"
+ This I whispered, and an echo murmured back the word, "Lenore!" --
+ Merely this and nothing more.
+
+ Back into the chamber turning, all my soul within me burning,
+ Soon again I heard a tapping somewhat louder than before.
+ "Surely," said I, "surely that is something at my window lattice;
+ Let me see, then, what thereat is, and this mystery explore --
+ Let my heart be still a moment and this mystery explore;--
+ 'Tis the wind and nothing more!"
+
+ ...TBC...
+
+Year Published: 1903
+Language: English
+Country of Origin: United States of America
+Source: Poe, E.A. (1903). The Works of Edgar Allan Poe, The Raven Edition, Volume 5. New York: P. F. Collier and Son.*
+
+
+ * Citation courtesy of Lit2Go (http://etc.usf.edu/lit2go/147/the-works-of-edgar-allan-poe/5352/the-raven/)
